@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Java & Python Projects**
+ 🔭 Working on **JAVA, SQL & PYTHON PROJECTS**
  
- 🌱 I’m currently learning **Java, Python**
+ 🌱 Learning **What I Need To Complete My Work/Projects**
 
-💬 Ask me about **Node.js, React, Firebase... or anything**
+ 💬 Ask me about **Anything**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ **Feel Free To Collaborate!**
 
  </div>
  
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
