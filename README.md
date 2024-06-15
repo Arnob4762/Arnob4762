@@ -7,6 +7,7 @@
 <h3 align="center"> A Computer Science Student and Tech Enthusiast.<br/> Passionate about Coding, AI, and Open-Source </h3>
 
 <br/>
+<br/>
 
 <div align="center">
  
