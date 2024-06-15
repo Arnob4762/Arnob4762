@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Arnob4762.Arnob4762" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Dancing Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME++👋;I'm+Azmain+Arnob;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Dancing_script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME++👋;I'm+Azmain+Arnob;" />
 </h1>
 
 <h3 align="center"> A Computer Science Student and Tech Enthusiast.<br/> Passionate about Coding, AI, and Open-Source </h3>
