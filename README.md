@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azmain+Iqtidar+Arnob!;" />
 </h1>
 
-<h3 align="center"> A Computer Science Student and Tech Enthusiast. Passionate about Coding, AI, and Open-Source </h3>
+<h3 align="center"> A Computer Science Student and Tech Enthusiast.<br/> Passionate about Coding, AI, and Open-Source </h3>
 
 <br/>
 
