@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Arnob4762.Arnob4762" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME++;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=50&center=true&vCenter=true&width=500&height=70&duration=2000&lines=WELCOME++;" />
 </h1>
 
 <h3 align="center"> A Computer Science Student and Tech Enthusiast.<br/> Passionate about Coding, AI, and Open-Source </h3>
@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 Working on **JAVA, SQL & PYTHON PROJECTS**
+ 🔭 Working on **GENERATIVE AI PROJECTS**
  
  🌱 Learning **What I Need To Complete My Work/Projects**
 
