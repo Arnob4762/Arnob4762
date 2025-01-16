@@ -4,27 +4,32 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=50&center=true&vCenter=true&width=500&height=70&duration=2000&lines=WELCOME++;" />
 </h1>
 
-<h3 align="center"> Computer Science Student | Tech Enthusiast
-Passionate about AI, Software Development, and Open-Source Contributions
-
+<h3 align="center">
 I am a third-year Computer Science and Engineering student at North South University, driven by the transformative potential of technology. My focus is on developing innovative solutions and exploring the exciting fields of Artificial Intelligence and Machine Learning.
+</h3>
 
-Areas of Expertise:
+<h4>Areas of Expertise:</h4>
+<ul>
+    <li>Coding and Software Development</li>
+    <li>AI and Machine Learning (Beginner, with a strong passion to master)</li>
+    <li>Open-Source Contributions</li>
+</ul>
 
-Coding and Software Development
-AI and Machine Learning (Beginner, with a strong passion to master)
-Open-Source Contributions
-Currently, I am working on a Medical Information Chatbot Project using Retrieval-Augmented Generation (RAG) as part of my academic coursework. This project is my first step into the world of AI, and I aim to deliver impactful results.
+<h4>Currently:</h4>
+<p>
+I am working on a Medical Information Chatbot Project using Retrieval-Augmented Generation (RAG) as part of my academic coursework. This project is my first step into the world of AI, and I aim to deliver impactful results.
+</p>
 
-Vision:
+<h4>Vision:</h4>
+<p>
 To shape the future of technology with creative and meaningful innovations, combining my technical skills and a visionary mindset.
+</p>
 
-Let's Connect:
-
-Phone: +880 1645-104762
-Email: [Provide your email here]
-LinkedIn: [Provide your LinkedIn profile link here]
-Open to collaborations, internships, and discussions on cutting-edge technologies. Let's build the future together! </h3>
+<h4>Let's Connect:</h4>
+<ul>
+    <li>Phone: +880 1645-104762</li>
+    <li>Email: [Provide your email here]</li>
+    <
 
 <br/>
 <br/>
