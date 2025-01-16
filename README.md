@@ -4,7 +4,27 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=50&center=true&vCenter=true&width=500&height=70&duration=2000&lines=WELCOME++;" />
 </h1>
 
-<h3 align="center"> A Computer Science Student and Tech Enthusiast.<br/> Passionate about Coding, AI, and Open-Source </h3>
+<h3 align="center"> Computer Science Student | Tech Enthusiast
+Passionate about AI, Software Development, and Open-Source Contributions
+
+I am a third-year Computer Science and Engineering student at North South University, driven by the transformative potential of technology. My focus is on developing innovative solutions and exploring the exciting fields of Artificial Intelligence and Machine Learning.
+
+Areas of Expertise:
+
+Coding and Software Development
+AI and Machine Learning (Beginner, with a strong passion to master)
+Open-Source Contributions
+Currently, I am working on a Medical Information Chatbot Project using Retrieval-Augmented Generation (RAG) as part of my academic coursework. This project is my first step into the world of AI, and I aim to deliver impactful results.
+
+Vision:
+To shape the future of technology with creative and meaningful innovations, combining my technical skills and a visionary mindset.
+
+Let's Connect:
+
+Phone: +880 1645-104762
+Email: [Provide your email here]
+LinkedIn: [Provide your LinkedIn profile link here]
+Open to collaborations, internships, and discussions on cutting-edge technologies. Let's build the future together! </h3>
 
 <br/>
 <br/>
