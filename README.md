@@ -17,7 +17,7 @@ I am a third-year Computer Science and Engineering student at North South Univer
 
 <h4>Currently:</h4>
 <p>
-I am working on a Medical Information Chatbot Project using Retrieval-Augmented Generation (RAG) as part of my academic coursework. This project is my first step into the world of AI, and I aim to deliver impactful results.
+I am working on a  Chatbot Project using Retrieval-Augmented Generation (RAG) as part of my academic coursework. This project is my first step into the world of AI, and I aim to deliver impactful results.
 </p>
 
 <h4>Vision:</h4>
@@ -27,8 +27,7 @@ To shape the future of technology with creative and meaningful innovations, comb
 
 <h4>Let's Connect:</h4>
 <ul>
-    <li>Phone: +880 1645-104762</li>
-    <li>Email: [Provide your email here]</li>
+    <li>Email: ornobazmain@gmail.com </li>
     <
 
 <br/>
