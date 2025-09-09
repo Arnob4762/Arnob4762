@@ -36,7 +36,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/Arnob4762/Arnob4762/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/master/demo/github-contribution-grid-snake.gif)
+
 
 ---
 
