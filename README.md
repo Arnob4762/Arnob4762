@@ -54,8 +54,8 @@
 
 
 ---
-<!--## 🐍 Contribution Snake-->
-![snake gif](https://raw.githubusercontent.com/Arnob4762/Arnob4762/output/snake.svg)
+## 🐍 Contribution Snake
+![static snake](https://github.com/Arnob4762/Arnob4762/raw/output/snake.svg)
 
 ---
 
