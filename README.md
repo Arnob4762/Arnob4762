@@ -9,7 +9,7 @@
   <tr>
     <td valign="middle">
       <!-- Your Name GIF -->
-      <img src="./azmain_name.gif" width="500">
+      <img src="./azmain_name.gif" width="550">
     </td>
     <td>
       <!-- Your Cool GIF -->
