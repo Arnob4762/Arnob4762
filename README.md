@@ -54,8 +54,21 @@
 
 
 ---
-## 🐍 Contribution Snake
-![static snake](https://github.com/Arnob4762/Arnob4762/raw/output/snake.svg)
+<!--## 🐍 Contribution Snake (Custom Static)-->
+
+![custom snake](data:image/svg+xml;utf8,
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="20">
+  <!-- Row of colored blocks -->
+  <rect x="0" y="0" width="20" height="20" fill="#d6e685"/>
+  <rect x="20" y="0" width="20" height="20" fill="#8cc665"/>
+  <rect x="40" y="0" width="20" height="20" fill="#44a340"/>
+  <rect x="60" y="0" width="20" height="20" fill="#1e6823"/>
+  <rect x="80" y="0" width="20" height="20" fill="#44a340"/>
+  <rect x="100" y="0" width="20" height="20" fill="#8cc665"/>
+  <rect x="120" y="0" width="20" height="20" fill="#d6e685"/>
+  <rect x="140" y="0" width="20" height="20" fill="#1e6823"/>
+  <rect x="160" y="0" width="20" height="20" fill="#8cc665"/>
+</svg>)
 
 ---
 
