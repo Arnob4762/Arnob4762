@@ -18,17 +18,13 @@
 </table>
 
 ---
-<!-- 🎯 Professional About Me -->
+<!-- 🐍 Snake-like About Me Animation -->
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8" width="80%">
-    Exploring and Learning Generative AI &nbsp;&nbsp; | &nbsp;&nbsp;
-    Fun fact: I love Cycling &nbsp;&nbsp; | &nbsp;&nbsp;
-    Passionate about Tech + Creativity &nbsp;&nbsp; | &nbsp;&nbsp;
-    Always open to new collaborations
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=700&lines=Exploring+and+Learning+Generative+AI;Fun+fact:+I+love+Cycling;Passionate+about+Tech+and+Creativity;Always+open+to+new+collaborations" alt="About Me Animation"/>
 </p>
+
 
 ---
 
