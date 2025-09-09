@@ -18,12 +18,12 @@
 </table>
 
 ---
+<!-- 🌟 Professional About Me Section -->
+<h2 align="center">🚀 About Me</h2>
 
-## 🚀 About Me
-- 🌱 Exploring and Learning **Generative AI**
-- ⚡ Fun fact: I love **cycling**
-- 💡 Passionate about **Tech + Creativity**
-- 🔭 Always open to **new collaborations**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=🌱+Exploring+and+Learning+Generative+AI;⚡+Fun+fact:+I+love+Cycling;💡+Passionate+about+Tech+%2B+Creativity;🔭+Always+open+to+new+collaborations" alt="Typing Animation" />
+</p>
 
 ---
 
