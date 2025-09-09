@@ -22,9 +22,8 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=700&lines=Exploring+and+Learning+Generative+AI;Fun+fact:+I+love+Cycling;Passionate+about+Tech+and+Creativity;Always+open+to+new+collaborations" alt="About Me Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=700&lines=Computer+Science+Engineer+%7C+AI+Enthusiast;Exploring+Generative+AI+and+Machine+Learning;Driven+by+Innovation+and+Problem+Solving;Open+to+Collaboration+and+Knowledge+Sharing" alt="About Me Animation"/>
 </p>
-
 
 ---
 
