@@ -1,5 +1,5 @@
-<!-- 🌊 Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4c68,100:1e90ff&height=80&section=header&text=Welcome!&fontSize=30&fontColor=ffffff&animation=fadeIn&stroke=ffffff)
+<!-- 🌊 Ocean Wave Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=🌊%20Welcome%20Aboard!%20🌊&fontSize=40&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2&fontAlignY=35)
 
 ---
 
