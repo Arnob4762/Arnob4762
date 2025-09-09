@@ -54,9 +54,7 @@
 
 ---
 
-<p align="center">
-  ## 🌐 Connect With Me
-</p>
+<h2 align="center">CONTACTS</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/azmain-arnob7/" target="_blank">
