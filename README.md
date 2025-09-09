@@ -18,16 +18,13 @@
 </table>
 
 ---
+<!-- 🐍 Snake-like About Me Animation -->
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <svg viewBox="0 0 1000 50">
-    <text x="100%" y="50%" dominant-baseline="middle" text-anchor="start" font-size="20" font-family="Verdana" fill="#1e90ff">
-      Exploring and Learning Generative AI • Fun fact: I love Cycling • Passionate about Tech and Creativity • Always open to new collaborations
-    </text>
-    <animateTransform attributeName="transform" type="translate" from="1000 0" to="-1000 0" dur="15s" repeatCount="indefinite"/>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=700&lines=Exploring+and+Learning+Generative+AI;Fun+fact:+I+love+Cycling;Passionate+about+Tech+and+Creativity;Always+open+to+new+collaborations" alt="About Me Animation"/>
 </p>
+
 
 ---
 
