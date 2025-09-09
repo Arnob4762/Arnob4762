@@ -77,5 +77,3 @@
 
 ---
 
-<!-- 🌊 Animated Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:ff4c68&height=100&section=footer)
