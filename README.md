@@ -3,13 +3,13 @@
 
 ---
 
-## ✨ Magical Name + GIF
+## ✨ Magical Name + Cool GIF Side by Side
 
 <table>
   <tr>
     <td valign="middle">
-      <!-- Animated Name -->
-      ![animated-name](https://capsule-render.vercel.app/api?type=waving&color=0:ff4c68,100:1e90ff&height=100&section=header&text=Azmain%20Iqtidar%20Arnob&fontSize=40&fontColor=ffffff&animation=fadeIn&stroke=ffffff)
+      <!-- Your Name GIF -->
+      <img src="./azmain_name_animation_huge.gif" width="250">
     </td>
     <td>
       <!-- Your Cool GIF -->
@@ -36,8 +36,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Platane/snk/master/demo/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/Arnob4762/Arnob4762/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
