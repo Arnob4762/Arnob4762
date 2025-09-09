@@ -52,18 +52,30 @@
 
 </div>
 
-
----
-<!-- 🌟 Contribution Heatmap -->
-![Contribution Heatmap](https://github-readme-stats.vercel.app/api/pin/?username=Arnob4762&repo=Arnob4762&theme=radical&count_private=true&show_icons=true)
-
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmain-arnob7/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/azmainornob)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ornobazmain@gmail.com)  
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Azmain_7)
+<p align="center">
+  ## 🌐 Connect With Me
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/azmain-arnob7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/azmainornob" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ornobazmain@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Azmain_7" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+
 
 ---
 
