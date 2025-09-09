@@ -13,7 +13,7 @@
     </td>
     <td>
       <!-- Your Cool GIF -->
-      <img src="./cool_animation.gif" width="400">
+      <img src="./cool_animation.gif" width="300">
     </td>
   </tr>
 </table>
