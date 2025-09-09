@@ -1,5 +1,24 @@
 <!-- 🌊 Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4c68,100:1e90ff&height=200&section=header&text=Hey%20👋%20I'm%20Azmain%20Iqtidar%20Arnob&fontSize=35&fontColor=fff&animation=fadeIn&stroke=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4c68,100:1e90ff&height=80&section=header&text=Welcome!&fontSize=30&fontColor=ffffff&animation=fadeIn&stroke=ffffff)
+
+---
+
+## ✨ Magical Name + GIF
+
+<table>
+  <tr>
+    <td valign="middle">
+      <!-- Animated Name -->
+      ![animated-name](https://capsule-render.vercel.app/api?type=waving&color=0:ff4c68,100:1e90ff&height=100&section=header&text=Azmain%20Iqtidar%20Arnob&fontSize=40&fontColor=ffffff&animation=fadeIn&stroke=ffffff)
+    </td>
+    <td>
+      <!-- Your Cool GIF -->
+      <img src="./cool_animation.gif" width="250">
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🚀 About Me
 - 🌱 Exploring and Learning **Generative AI**
@@ -18,20 +37,6 @@
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/Arnob4762/Arnob4762/blob/output/github-contribution-grid-snake.gif)
-
----
-
-## 🎬 Fun Zone: Glowing Animation + Profile Pic Side by Side
-<table>
-  <tr>
-    <td>
-      <img src="./cool_animation.gif" width="200">
-    </td>
-    <td>
-      <img src="https://github.com/Arnob4762.png" width="200" style="border-radius:50%">
-    </td>
-  </tr>
-</table>
 
 ---
 
