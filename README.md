@@ -1,5 +1,5 @@
-<!-- 🌊 Ocean Wave Rainy Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00c6ff&height=200&section=header&text=Welcome&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2&fontAlignY=40&desc=✨Rainy%20Vibes%20Over%20the%20Ocean✨&descAlignY=70&descAlign=50)
+<!-- 🌊 Ocean Wave Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00c6ff&height=200&section=header&text=WELCOME&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2&fontAlignY=40)
 
 
 ---
