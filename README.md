@@ -3,8 +3,6 @@
 
 ---
 
-## ✨ Magical Name + Cool GIF Side by Side
-
 <table>
   <tr>
     <td valign="middle">
