@@ -9,11 +9,11 @@
   <tr>
     <td valign="middle">
       <!-- Your Name GIF -->
-      <img src="./azmain_name.gif" width="500">
+      <img src="./azmain_name.gif" width="550">
     </td>
     <td>
       <!-- Your Cool GIF -->
-      <img src="./cool_animation.gif" width="300">
+      <img src="./cool_animation.gif" width="250">
     </td>
   </tr>
 </table>
