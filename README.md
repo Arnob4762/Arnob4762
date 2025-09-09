@@ -27,10 +27,31 @@
 
 ---
 
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnob4762&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
+<!-- 📊 GitHub Stats Section -->
+<h2 align="center">📊 My GitHub Stats</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnob4762&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+
+  <!-- Waving SVG Divider (cool animated effect) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+
+  <!-- Stats Cards -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Arnob4762&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnob4762&layout=compact&theme=radical&hide_border=true" height="180"/>
+  </p>
+
+  <!-- Streak Stats with Fire Animation -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnob4762&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" height="200"/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Arnob4762&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+  <!-- Cool Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+
+</div>
+
 
 ---
 
